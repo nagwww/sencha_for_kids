@@ -1,3 +1,4 @@
+<PRE>
 Introduction
 It is always exciting to build you own i-phone/i-pad/android app and put it up in a place (app store) where your friends, family can download and install it. I did not realize how easy it was until i did. The following is intended to anyone who wants to build their own app and know how to use the keyboard. You do not need to know HTML5 or JavaScript. I searched google for long time to see if there was any one who created steps for non-technical people to create a mobile app. Looks like there is none and so started this post. ( I try not to use the words like, framework, native as my intended audience are non-technical people )
 
@@ -38,3 +39,4 @@ configuration: Debug
 sencha app package run <configFile.json>
  sencha app package <configFile.json>
 Upload the app to the Apple Appstore
+</PRE>
