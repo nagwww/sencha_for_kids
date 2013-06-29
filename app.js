@@ -25,7 +25,9 @@ Ext.application({
     requires: [
         'Ext.MessageBox'
     ],
+    controllers: [ 'Myclass'
 
+    ],
     views: [
         'Main',
         'Myclass'
