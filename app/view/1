@@ -1,0 +1,10 @@
+Ext.define('s1.view.Myclass', {
+    extend: 'Ext.navigation.View',
+    xtype: 'myclass',
+    requires: [
+        'Ext.TitleBar',
+        'Ext.Video'
+    ],
+    config: {
+            }
+});
